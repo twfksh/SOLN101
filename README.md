@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-This repository contains my solutions to various problems from [LeetCode](https://leetcode.com/). Each problem is solved using Go programming language.
+This repository contains my solutions to various problems from [LeetCode](https://leetcode.com/). Each problem is solved using C++/Go/Python programming language.
 
 ## Contributing
 
